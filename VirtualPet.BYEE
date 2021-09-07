@@ -4,6 +4,7 @@ void setup()
 }
 void draw()
 {
+  background(192);
   rect(150,150,200,200);
   rect(190,200,20,20);
   rect(290,200,20,20);
