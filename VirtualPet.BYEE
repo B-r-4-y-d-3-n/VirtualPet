@@ -1,10 +1,9 @@
 void setup()
 {
-  size(1000,1000);
+  size(500,500);
 }
 void draw()
 {
-  background(152);
   rect(150,150,200,200);
   rect(190,200,20,20);
   rect(290,200,20,20);
